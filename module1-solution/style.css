@@ -1,0 +1,18 @@
+* > div{
+    font-size: 16px;
+    padding:10px;
+}
+div > button {
+    margin:20px;
+}
+textarea{
+    width: 250px;
+    height: 120px;
+}
+.check-error{
+    color: red;
+}
+
+.check-verified {
+    color:green;
+}
